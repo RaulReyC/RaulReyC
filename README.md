@@ -2,8 +2,8 @@
 mis proyecto de prueba
 
 # Créditos
-Proyecto externo INE-ApiR
-- [https://github.com/autor/proyecto](https://github.com/es-ine/ineapir)
+Proyecto externo 
+- [INEApiR](https://github.com/es-ine/ineapir)
 
 ## Hi there 👋
 
